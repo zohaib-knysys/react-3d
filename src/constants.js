@@ -1,0 +1,1 @@
+export const STLFILE = require("./heart.stl");
