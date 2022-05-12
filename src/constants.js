@@ -1,1 +1,1 @@
-export const STLFILE = require("./heart.stl");
+export const STLFILE = require("./str.stl");
